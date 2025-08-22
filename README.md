@@ -123,4 +123,3 @@ Developed as a learning project to practice **Java OOP, Collections, and CLI app
 
 ---
 
-Would you like me to also **add sample inputs/outputs screenshots** (simulated CLI examples) to the README so it looks more engaging?
